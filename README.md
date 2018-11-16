@@ -31,7 +31,7 @@ For working with EOSIO and ezeos you need to install:
 3. Required python modules.
 
 ### 1. EOSIO
-#### Standalone EOSIO
+#### Standalone EOSIO (recommended)
 
 Install [EOSIO](https://github.com/EOSIO/eos) (v1.4.1) in the `~/eos` directory by following the official repository instruction.
 
